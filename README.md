@@ -12,4 +12,5 @@ comando executar
 >  command execute-->
 
 <br>
+
 ![dijkstra](https://user-images.githubusercontent.com/77855082/145925267-2ba57df6-b5bc-4247-8146-b7f6345337e2.gif)
