@@ -7,9 +7,9 @@ Implementação do algoritmo de Dijkstra representado por uma animação 2D, uti
 &bull; compilar: g++ -std=c++0x dijkstra.c -I. -lglut -lGL -lGLU -o dijkstra <br>
 &bull; executar: ./dijkstra
 
->Compile and Execute<br>
+<!-->Compile and Execute<br>
 > &bull; compile: g++ -std=c++0x dijkstra.c -I. -lglut -lGL -lGLU -o dijkstra <br>
-> &bull; execute: ./dijkstra
+> &bull; execute: ./dijkstra-->
 
 <br>
 
